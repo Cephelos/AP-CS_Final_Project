@@ -1,0 +1,6 @@
+Highscores
+Jesse James: 10
+Bonnie Parker: 9
+Clyde Barrow: 8
+Baby Face Nelson: 7
+Butch Cassidy: 6
